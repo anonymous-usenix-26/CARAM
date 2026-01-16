@@ -1,6 +1,5 @@
 """
 CARAM: Context-Aware Risk Assessment Model 
-Authors: Kamal Benzekki
 Conferences: USENIX Security
 """
 
